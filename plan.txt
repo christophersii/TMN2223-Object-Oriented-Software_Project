@@ -1,0 +1,125 @@
+Task
+1.identify the classes
+
+2.draw a class diagram- polymorphism & inheritance
+
+3.list possible attributes and methods for each classes
+
+4.design userinterfaces
+
+5.implement the classes (C++)- reflect the structure of classes(interface design)
+  - polymorphism, inheritance,association,encapsulation
+
+6.implement the user interfaces and methods of classes(detailed method not necessarily)
+  -sufficient if each method can output on screen so that we know which method is called.
+
+7.prepare at least ">=" 5 test cases (exclude the 'log in' test case sample)
+
+8.implement the driver (main program) which tests all the classes and methods declared according 
+  to the class diagram and test according to the test cases.
+
+Presentation
+-powerpoint
+
+Report
+-document all the tasks
+-include the test cases (follow templete given)
+-not exceed 10 pages.
+-signed document.
+
+Submission
+-5 January 2021, Tue 10am. 5marks per day for late submission
+-submid report and coding file
+
+Note
+-this is your final assessment
+-plagiarism= FAIL
+-no contribution= FAIL
+
+Marking scheme
+
+-Report      15%
+	-class diagram
+		-min 4 classes
+		-associations, multiplicity
+		-attributes (min 3 attributes per class)
+		-methods (min 3 methods per class)
+		-polymorphism
+			-overriding
+			-overloading
+		-inheritance and/or aggregation
+		-other OO concepts: abstraction, encapsulation
+	-user interface design (OO rules)
+	-test case (min 5 test cases exclude 'login' test case)
+
+-OO Program  15%
+	-Reflect class diagram (2%)
+		-implement min 4 classes and 4 objects.
+	-Encapsulation- seperate classes and objects (2%)
+		-implement visibility settings.
+	-Abstration (3%)
+		-min 3 heaer file and implementation file seperated
+	-Inheritance (2%)
+		-implement min 1 super class and 1 sub class
+	-Polymorphism (3%)
+		-min 3 methods overloading
+		-min 2 methods overriding
+	-Functional (2%)
+		-Add, modify, delete data
+	-Main Driver (exe) (1%)
+		-from one user interface to another
+-Presentation 5%
+	-understanding of the System Design and Prototype (3%)
+	-object-oriented concepts projected on the system (2%)
+-Contribution 3%
+	-contrbution in class diagram, test case, user interface design and implementation (2%)
+	-question and answer (1%)
+-Group Work   2%
+	-active participation in meeting
+	-commitment and effort to attend meeting
+	-supporting other members
+	-contribution to overall work activity
+
+Rubric
+1. Class diagram
+	1.1 classes
+		-minimum 4 classes are well identified to the case study and demonstrates understanding of why each class falls into the category of Boundary, Entity and Controller. UML notation for class diagram is correct.
+	1.2 relationship,attributes and methods
+		-all classes are mentioned in the diagram with their methods (return type and parameters), attributes (type and access level) and relationships (Labelled with multiplicity) are well presented. Correct UML notation are used.
+2. User Interface (UI) desgin	-all of the user interfaces reflects the class diagram by applying OO Desgin Approach/ Rules.
+3. Test Cases			-test cases with clearly started Action, Input Values, Expected Output and Actual Results for at least 2 classes or 3 main methods.
+4. Report Mechanics		-report has an excellent organization and presents material in a very logical sequence. No spelling or grammar errors, exellent formatting, highly readabe. Functionality- working codes with usable user interface, get and set methods.
+5. OO Program			-fully OO program is implemented by reflecting the class diagram (classes implemented in the program) applying OO concept. The OO program must be able to add, delete and modify data. The user interfaces are well organised and functional: able transition from one user interface to another.
+
+
+Class Diagram
+-min 4 class
+-associations, multiplicity
+-attributes (min 3 per class)
+-methods (min 3 methods per class)
+-polymorphism
+	-overriding
+	-overloading
+-inheritance and/or aggregation
+-other OO concepts: abstraction, encapsulation
+
+
+Object Oriented Programming
+-reflect class diagram
+	-implement min 4 classes and 4 objects
+-encapsulation
+	-separate classes and objects
+	-implement visibility settings
+-abstraction
+	-min 3 header file and implementation file separated
+- inheritance
+	-implement min 1 super class and 1 sub class
+- polymorphism
+	-min 3 methods overloading
+	-min 2 methods overriding
+- functional
+	-add, modify, delete data
+-main driver (exe)
+	-from one user interface to another
+
+

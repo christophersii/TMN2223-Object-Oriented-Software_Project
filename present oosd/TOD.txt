@@ -1,0 +1,27 @@
+TOD
+
+homepage		- holi
+register patient	- holi
+view user list		- holi
+view all appointment	- holi
+
+patient login(ali)	- chris
+edit patient detail	- chris
+view profile 		- chris
+change patient password	- amar
+make appointment	- amar
+view appointment	- amar
+
+patient login(ahkao)	- zaki
+edit patient detail	- zaki
+view profile 		- zaki
+make appointment	- lee ji
+view appointment	- lee ji
+
+atient login(muthu)	- lee ji
+edit patient detail	- miza
+view profile 		- miza
+make appointment	- miza
+view appointment	- miza
+
+view all appointment	- holi
